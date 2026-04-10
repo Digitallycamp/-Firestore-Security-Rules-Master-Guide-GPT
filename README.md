@@ -1,0 +1,1 @@
+# -Firestore-Security-Rules-Master-Guide-GPT
